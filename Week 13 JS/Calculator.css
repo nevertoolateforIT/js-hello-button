@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+    padding-left: 2%;
+}
+button{
+    height: 5em; 
+    width: 10em;
+    font-size: medium;
+}
+button:hover{
+    color: green;
+    height: 6em;
+    width: 11em;
+}
+#options {
+    text-align: center;
+}
+li{
+    list-style-type:none;
+    padding-bottom: 1em;
+}
